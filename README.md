@@ -1,16 +1,3 @@
-<h4 align="center">
-<img src="./img/logo3x.png" width="250px" /><br>
- <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
-</h4>
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
-  </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
-</p>
-
-<br>
-
 ### :rocket: Tecnologias usadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
