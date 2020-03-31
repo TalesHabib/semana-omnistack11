@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://zr-zp5.anonymous.mobile.exp.direct:3333'
+  baseURL: '192.168.0.111:3333' //ip da maquina e porta do backend
 });
 
 export default api;
